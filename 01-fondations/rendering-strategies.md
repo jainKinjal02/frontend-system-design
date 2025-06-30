@@ -101,3 +101,7 @@ A hybrid where pages are statically built but can be updated **at runtime** on a
 
 ## 🖼️ Bonus: Simple Diagram
 
+![Rendering Strategies Diagram](./image.png)
+
+
+
